@@ -8,7 +8,6 @@ A Gaming e-commerce site built using flutter.
 - [Features](#features)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
 ## Overview
